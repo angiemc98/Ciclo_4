@@ -97,6 +97,14 @@ hr {
   opacity: 0.25;
 }
 
+.image-nav {
+  padding-left: 15px;
+}
+
+.image-user{
+  padding-left: 4px;
+}
+
 hr:not([size]) {
   height: 1px;
 }
@@ -2739,6 +2747,7 @@ textarea.form-control-lg {
 .input-group {
   position: relative;
   display: flex;
+  left:6%;
   flex-wrap: wrap;
   align-items: stretch;
   width: 100%;
